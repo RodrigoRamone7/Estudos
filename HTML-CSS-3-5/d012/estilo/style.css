@@ -22,9 +22,10 @@ html, body{
 }
 
 header{
-    background-color: black;
+    background-image: linear-gradient(to bottom, black, rgb(24 24 24), rgb(70 70 70) , rgb(131 131 131), white);
     color: white;
     text-align: center;
+    text-shadow: 3px 3px 5px black;
 }
 
 header > h1{
